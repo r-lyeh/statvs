@@ -1,4 +1,4 @@
-status
+statvs
 ======
 
 [![Join the chat at DiscordApp](https://img.shields.io/badge/discord-support-blue.svg)](https://discord.gg/vu6Vt9d)
