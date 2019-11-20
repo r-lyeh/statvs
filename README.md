@@ -14,3 +14,4 @@ Tags|Repository
 :----------------:|:------------
 docgen|[stddoc.c (C)](http://github.com/r-lyeh/stddoc.c) <br/> tiny *source code documentation generator*.
 runtime|[stdstring.h (C)](https://github.com/r-lyeh/stdstring.h) <br/> *string library*.
+design|[gamebook (Markdown)](https://github.com/r-lyeh/gamebook) <br/> unified *game design document*.
