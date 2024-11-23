@@ -5,7 +5,7 @@ statvs
 
 - My name is r-lyeh and I code and port videogames :neckbeard:
 - The projects below are Public Domain (or _0BSD/MIT0/ZLIB/LibPNG licensed_ at your choice).
-- [Really old projects can be found here](https://github.com/r-lyeh-archived/statvs).
+- [Really old projects and C++ libraries **can be found here**](https://github.com/r-lyeh-archived/statvs).
 
 ## Released
 
