@@ -11,7 +11,9 @@ statvs
 
 Tags|Repository
 :----------------:|:------------
-engine|[FWK (C)](https://github.com/r-lyeh/FWK) <br> *3D game framework* in C, with Luajit bindings now.
+engine|[FWK (C)](https://github.com/r-lyeh/v2) <br> *3D game framework* in C, v2.
+engine|[FWK (C)](https://github.com/r-lyeh/v1) <br> *3D game framework* in C, v1.
+emulator|[Spectral (C)](https://github.com/r-lyeh/Spectral) <br> *ZX Spectrum emulator* for Windows, Linux and MacOS.
 docgen|[stddoc.c (C)](https://github.com/r-lyeh/stddoc.c) <br/> tiny source code *documentation generator*.
 runtime|[stdstring.h (C)](https://github.com/r-lyeh/stdstring.h) <br/> *string library*.
 compression|[stdarc.c (C)](https://github.com/r-lyeh/stdarc.c) <br/> Collection of small public domain *file archivers*.
